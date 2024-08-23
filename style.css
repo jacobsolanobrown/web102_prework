@@ -5,6 +5,9 @@ body {
     background-color: #758190;
 }
 
+h2 {
+    text-align: center;
+}
 #tentacles {
     width: 50px;
 }
@@ -76,6 +79,13 @@ body {
     text-align: center;
 }
 
+#game-intro {
+    text-align: center;
+}
+
+#description-container {
+    text-align: center;
+}
 
 button {
     font-family: 'Cabin';
