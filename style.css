@@ -21,6 +21,14 @@ body {
 
 .stats-container {
     display: flex;
+    flex-direction: row;
+    align-items: safe;
+
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -62,9 +70,12 @@ body {
     box-shadow: 0 0 30px lightblue;
 }
 
+
+
 #button-container {
     text-align: center;
 }
+
 
 button {
     font-family: 'Cabin';
