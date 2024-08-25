@@ -193,3 +193,9 @@ firstGameContainer.appendChild(firstPlaceGame);
 let secondPlaceGame = document.createElement("h4");
 secondPlaceGame.innerHTML = `${second.name}`;
 secondGameContainer.appendChild(secondPlaceGame);
+
+/************************************************************************************
+ * Adding a sticky header to the top so that it stays at the top when scrolling
+ * 
+ */
+// When the user scrolls the page, execute myFunction
