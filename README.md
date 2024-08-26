@@ -28,7 +28,7 @@ Here's a walkthrough of implemented features:
 <img src='seamonstervid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  QuickMovieTime Player + Adobe MP4 to Gif 
+GIF created with ...  QuickMovieTime Player + Gifski on Mac 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
