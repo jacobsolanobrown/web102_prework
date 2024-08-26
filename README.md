@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/seamonstercrowd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='seamonstervid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  QuickMovieTime Player + Adobe MP4 to Gif 
